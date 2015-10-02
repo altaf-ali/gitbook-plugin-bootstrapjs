@@ -1,4 +1,4 @@
-require(["jQuery", "gitbook", "//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"], function($, gitbook) {
+require(["jQuery", "gitbook", "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"], function($, gitbook) {
 
   var options = {
       modal: true,
